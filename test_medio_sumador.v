@@ -12,5 +12,5 @@ initial
         #25;
     end
 initial
-#200 $finish; //Duracion de la simulacion
+#150 $finish; //Duracion de la simulacion
 endmodule
