@@ -1,5 +1,5 @@
 //Modulo de estimulo para el circuito medio_sumador
-`timescale 1ns/100ps
+`timescale 1ns/1ns
 module test_medio_sumador();
     reg A,B;
     wire S,Cout;
