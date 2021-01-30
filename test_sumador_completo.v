@@ -1,4 +1,4 @@
-`timescale 1ns/100ps
+`timescale 1ns/1ns
 
 // Módulo de Estímulo para el sumador completo
 module test_sumador_completo();

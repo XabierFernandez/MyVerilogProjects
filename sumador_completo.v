@@ -1,6 +1,5 @@
 //Modulo de descripcion del circuito sumador completo
 //Usando puertas logicas
-`timescale 1ns/1ns
 
 module sumador_completo(
     input A,

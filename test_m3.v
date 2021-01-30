@@ -1,4 +1,4 @@
-`timescale 1ns/100ps
+`timescale 1ns/1ns
 
 // Módulo de Estímulo para el Reto #1 
 // del curso de Verilog, GalileoX 2018

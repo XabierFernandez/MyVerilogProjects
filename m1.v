@@ -1,4 +1,4 @@
-`timescale 1ns/100ps
+
 
 //Módulo de Descripción del Reto 1
 //Usando Compuertas
