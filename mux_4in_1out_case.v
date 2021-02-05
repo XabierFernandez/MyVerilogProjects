@@ -1,7 +1,7 @@
 `timescale 1ns/10ps
 //Modulo de descripcion del 
 //circuito multiplexor 4 entradas a 1 salida
-module mux_4in_1out(
+module mux_4in_1out_case(
     input  [3:0] I,
     input [1:0] sel,
     output reg Q);
